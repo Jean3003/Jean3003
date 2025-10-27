@@ -4,7 +4,7 @@
 </p>
 
 ## Bem vindo ao meu perfil GitHub 👋
-- 📡 Atualmente estou cursando Engenharia de Telecomunicações na UFC.
+- 📡 Atualmente estou cursando Engenharia de Telecomunicações na Universidade Federal do Ceará (UFC).
 - 🌱 Atualmente estou aprendendo novas habilidades e conhecimentos sobre o universo da tecnologia.
 
 ## Me conheça Mais!
