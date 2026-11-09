@@ -4,8 +4,7 @@
 </p>
 
 ## Bem vindo ao meu perfil GitHub 👋
-- 📡 Atualmente estou cursando Engenharia de Telecomunicações na Universidade Federal do Ceará (UFC).
-- 🌱 Atualmente estou aprendendo novas habilidades e conhecimentos sobre o universo da tecnologia.
+- 📡 Engenheiro de Telecomunicações pela Universidade Federal do Ceará (UFC).
 
 ## Me conheça Mais!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-c-7950b1141/)
